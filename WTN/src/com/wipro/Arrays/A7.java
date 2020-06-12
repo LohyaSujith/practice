@@ -1,10 +1,8 @@
-
 /*Write a program to remove the duplicate elements in an array and print the same.
 Example)
 I/P:{12,34,12,45,67,89}
 O/P:{12,34,45,67,89}*/
 package com.wipro.Arrays;
-import java.util.Arrays;
 public class A7 {
 	 public static void main (String[] args) {  
 	        int arr[] = {10,20,20,30,30,40,50,50};  
