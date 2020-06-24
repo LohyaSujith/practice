@@ -43,7 +43,7 @@ public class L8 {
                    break;                  
                default:
                    System.out.println("Invalid");
-                   break;                  
+                   break;  
          }
           
      }
